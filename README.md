@@ -1,4 +1,4 @@
-# LSTM Stock Predictor
+# Python - Deep Learning
 
 ![deep-learning.jpg](Images/deep-learning.jpg)
 
@@ -21,8 +21,6 @@ You will need to:
 [FNG Starter Notebook](Starter_Code/lstm_stock_predictor_fng.ipynb)
 
 - - -
-
-## Instructions
 
 ### Prepare the data for training and testing
 
@@ -67,23 +65,3 @@ Use the above to answer the following:
 [Stanford's RNN Cheatsheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks)
 
 - - -
-
-### Hints and Considerations
-
-Experiment with the model architecture and parameters to see which provides the best results, but be sure to use the same architecture and parameters when comparing each model.
-
-For training, use at least 10 estimators for both models.
-
-- - -
-
-### Submission
-
-* Create Jupyter Notebooks for the homework and host the notebooks on GitHub.
-
-* Include a Markdown that summarizes your homework and include this report in your GitHub repository.
-
-* Submit the link to your GitHub project to Bootcamp Spot.
-
-- - -
-
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
